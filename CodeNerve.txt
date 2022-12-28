@@ -1,22 +1,14 @@
 Logging in...
 
-<span id="a">guest@sulai.mn</span>:<span id="b">~</span><span id="c">$</span> intro
+<span id="a">guest@sulai.mn</span>:<span id="b">~</span><span id="c">$</span> about
 
-Hello, I'm Sulaiman Sudirman. A well-rounded software engineer, proficient in backend, frontend, database, server, and even mobile app development (cross platform).
-
-Passionate about software craftmanship and technology solutions that solve business problems.
-
-I'm Malaysian currently based in New Zealand, but working remotely for a US company.
+Hello, I'm Sulaiman Sudirman. A well-rounded software engineer, and Malaysian who is currently based in New Zealand, but working remotely for a US company.
 
 <span id="a">guest@sulai.mn</span>:<span id="b">~</span><span id="c">$</span> info
 
 Linkedin: <a target="blank" href="https://linkedin.com/in/sulaiman-sudirman">linkedin.com/in/sulaiman-sudirman</a>
 
 Blog: <a target="blank" href="https://sulaiman.dev">sulaiman.dev</a>
-
-GitHub: <a target="blank" href="https://github.com/natsu90">github.com/natsu90</a>
-
-Stack Overflow: <a target="blank" href="https://stackoverflow.com/u/1109004">stackoverflow.com/u/1109004</a>
 
 Nomad List: <a target="blank" href="https://nomadlist.com/@natsu90">nomadlist.com/@natsu90</a>
 
