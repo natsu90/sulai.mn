@@ -4,7 +4,7 @@ Logging in...
 
 Hello, I'm Sulaiman Sudirman. A well-rounded software engineer, and Malaysian who is currently based in New Zealand, but working remotely for a US company.
 
-<span id="a">guest@sulai.mn</span>:<span id="b">~</span><span id="c">$</span> /whois --more
+<span id="a">guest@sulai.mn</span>:<span id="b">~</span><span id="c">$</span> /info
 
 Linkedin: <a target="blank" href="https://linkedin.com/in/sulaiman-sudirman">linkedin.com/in/sulaiman-sudirman</a>
 
