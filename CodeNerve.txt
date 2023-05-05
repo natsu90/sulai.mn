@@ -2,7 +2,7 @@ Logging in...
 
 <span id="a">guest@sulai.mn</span>:<span id="b">~</span><span id="c">$</span> whois
 
-Hello, I'm Sulaiman Sudirman. A well-rounded software engineer, and Malaysian who is currently based in New Zealand, but working remotely for a US company.
+Hello, I'm Sulaiman Sudirman. A well-rounded software engineer from Malaysia, who is currently based in New Zealand, but working remotely for a US company.
 
 <span id="a">guest@sulai.mn</span>:<span id="b">~</span><span id="c">$</span> info
 
