@@ -12,7 +12,8 @@ Nomads: <a target="blank" href="https://nomads.com/@natsu90">nomads.com/@natsu90
 
 Blog: <a target="blank" href="https://sulaiman.dev">sulaiman.dev</a>
 
-Company Name & SSM Registration No: MOHD SULAIMAN BIN HJ SUDIRMAN 202303283451 (TR0293489-W)
+Company Name & SSM Registration No:
+MOHD SULAIMAN BIN HJ SUDIRMAN 202303283451 (TR0293489-W)
 
 <span id="a">guest@sulai.mn</span>:<span id="b">~</span><span id="c">$</span> help
 
